@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebastian Sangermano 👋
 
-## I'm a web developer with spring && angular
+### I'm a web developer with spring && angular
 
 ## I'm currently looking for a job
 
@@ -25,6 +25,8 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
 
 ### Connect with me:
 
