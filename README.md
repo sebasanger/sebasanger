@@ -1,8 +1,6 @@
 ### Hi there, I'm Sebastian Sangermano 👋
 
-### I'm a web developer with spring && angular
-
-## I'm currently looking for a job
+### I'm a backend java developer
 
 ### Languages and tools
 
