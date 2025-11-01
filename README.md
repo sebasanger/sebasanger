@@ -31,6 +31,4 @@
 ### Contact:
 
 [<img align="left" alt="sebastian-gabriel-sangermano-595b50180 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="seba_sanger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [linkedin]: https://linkedin.com/in/sebastian-gabriel-sangermano-595b50180
